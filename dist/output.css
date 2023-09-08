@@ -678,12 +678,12 @@ html {
   background-color: rgb(203 213 225 / var(--tw-bg-opacity));
 }
 
-.bg-\[url\(\'\/src\/img\/all\.png\'\)\] {
-  background-image: url('/src/img/all.png');
+.bg-\[url\(\'\/img\/all\.png\'\)\] {
+  background-image: url('/img/all.png');
 }
 
-.bg-\[url\(\'\/src\/img\/bg\.png\'\)\] {
-  background-image: url('/src/img/bg.png');
+.bg-\[url\(\'\/img\/bg\.png\'\)\] {
+  background-image: url('/img/bg.png');
 }
 
 .bg-\[url\(\'\/src\/img\/bg2\.png\'\)\] {
@@ -692,6 +692,22 @@ html {
 
 .bg-gradient-to-r {
   background-image: linear-gradient(to right, var(--tw-gradient-stops));
+}
+
+.bg-\[url\(\'src\/img\/bg\.png\'\)\] {
+  background-image: url('src/img/bg.png');
+}
+
+.bg-\[url\(\'src\/img\/all\.png\'\)\] {
+  background-image: url('src/img/all.png');
+}
+
+.bg-\[url\(\'\/src\/img\/all\.png\'\)\] {
+  background-image: url('/src/img/all.png');
+}
+
+.bg-\[url\(\'\/src\/img\/bg\.png\'\)\] {
+  background-image: url('/src/img/bg.png');
 }
 
 .from-\[\#FFC436\] {
