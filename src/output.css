@@ -584,6 +584,10 @@ html {
   display: flex;
 }
 
+.hidden {
+  display: none;
+}
+
 .h-\[589px\] {
   height: 589px;
 }
@@ -618,10 +622,6 @@ html {
 
 .h-full {
   height: 100%;
-}
-
-.h-screen {
-  height: 100vh;
 }
 
 .w-\[1300px\] {
