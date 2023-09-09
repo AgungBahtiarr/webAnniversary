@@ -543,9 +543,9 @@ html {
   margin-right: 4rem;
 }
 
-.mx-\[240px\] {
-  margin-left: 240px;
-  margin-right: 240px;
+.mx-28 {
+  margin-left: 7rem;
+  margin-right: 7rem;
 }
 
 .my-16 {
@@ -568,25 +568,12 @@ html {
   margin-bottom: 2.25rem;
 }
 
-.mx-28 {
-  margin-left: 7rem;
-  margin-right: 7rem;
-}
-
 .mb-28 {
   margin-bottom: 7rem;
 }
 
 .mt-\[400px\] {
   margin-top: 400px;
-}
-
-.mt-\[876px\] {
-  margin-top: 876px;
-}
-
-.mt-\[776px\] {
-  margin-top: 776px;
 }
 
 .mt-\[676px\] {
