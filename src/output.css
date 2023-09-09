@@ -543,9 +543,9 @@ html {
   margin-right: 4rem;
 }
 
-.mx-28 {
-  margin-left: 7rem;
-  margin-right: 7rem;
+.mx-8 {
+  margin-left: 2rem;
+  margin-right: 2rem;
 }
 
 .my-16 {
@@ -572,12 +572,12 @@ html {
   margin-bottom: 7rem;
 }
 
-.mt-\[400px\] {
-  margin-top: 400px;
-}
-
 .mt-\[676px\] {
   margin-top: 676px;
+}
+
+.mt-\[870px\] {
+  margin-top: 870px;
 }
 
 .flex {
