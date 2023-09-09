@@ -707,6 +707,18 @@ html {
   background-color: rgb(157 68 192 / var(--tw-bg-opacity));
 }
 
+.bg-\[url\(\'\/img\/atas\.png\'\)\] {
+  background-image: url('/img/atas.png');
+}
+
+.bg-\[url\(\'\/img\/bg\.png\'\)\] {
+  background-image: url('/img/bg.png');
+}
+
+.bg-\[url\(\'\/img\/img2\.png\'\)\] {
+  background-image: url('/img/img2.png');
+}
+
 .bg-\[url\(\'\/src\/img\/1\.png\'\)\] {
   background-image: url('/src/img/1.png');
 }
@@ -759,14 +771,6 @@ html {
   background-image: url('/src/img/9.png');
 }
 
-.bg-\[url\(\'\/src\/img\/atas\.png\'\)\] {
-  background-image: url('/src/img/atas.png');
-}
-
-.bg-\[url\(\'\/src\/img\/bg\.png\'\)\] {
-  background-image: url('/src/img/bg.png');
-}
-
 .bg-\[url\(\'\/src\/img\/bg2\.png\'\)\] {
   background-image: url('/src/img/bg2.png');
 }
@@ -775,12 +779,20 @@ html {
   background-image: url('/src/img/bg3.png');
 }
 
-.bg-\[url\(\'\/src\/img\/img2\.png\'\)\] {
-  background-image: url('/src/img/img2.png');
-}
-
 .bg-gradient-to-r {
   background-image: linear-gradient(to right, var(--tw-gradient-stops));
+}
+
+.bg-\[url\(\'img\/atas\.png\'\)\] {
+  background-image: url('img/atas.png');
+}
+
+.bg-\[url\(\'img\/img2\.png\'\)\] {
+  background-image: url('img/img2.png');
+}
+
+.bg-\[url\(\'img\/bg\.png\'\)\] {
+  background-image: url('img/bg.png');
 }
 
 .from-\[\#FFC436\] {
